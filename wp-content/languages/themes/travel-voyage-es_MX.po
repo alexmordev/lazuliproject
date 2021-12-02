@@ -1,0 +1,146 @@
+# Translation of Themes - Travel Voyage in Spanish (Mexico)
+# This file is distributed under the same license as the Themes - Travel Voyage package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-18 14:05:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es_MX\n"
+"Project-Id-Version: Themes - Travel Voyage\n"
+
+#. Theme Name of the theme
+msgid "Travel Voyage"
+msgstr "Travel Voyage"
+
+#: functions.php:705
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:704
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:703
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:66
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Enlace a la Demostración: %1$sHaz clic aquí.%2$s"
+
+#: functions.php:292
+msgid "Primary color of the theme."
+msgstr "Color principal del tema."
+
+#: functions.php:291
+msgid "Primary Color"
+msgstr "Color principal"
+
+#: functions.php:267
+msgid "Change the font size of your site."
+msgstr "Cambiar el tamaño de la fuente de su sitio."
+
+#: functions.php:244
+msgid "Secondary font of the site."
+msgstr "Fuente secundaria del sitio."
+
+#: functions.php:243
+msgid "Secondary Font"
+msgstr "Fuente secundaria"
+
+#: functions.php:222
+msgid "Primary font of the site."
+msgstr "Fuente principal del sitio."
+
+#: functions.php:221
+msgid "Primary Font"
+msgstr "Fuente principal"
+
+#: functions.php:202
+msgid "Typography"
+msgstr "Tipografía"
+
+#: functions.php:188
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Personalizar tipografía, imagen de encabezado e imagen de fondo"
+
+#: functions.php:187
+msgid "Appearance Settings"
+msgstr "Configuración de la apariencia"
+
+#: functions.php:606
+msgid "https://wordpress.org/"
+msgstr "https://es-mx.wordpress.org/"
+
+#: functions.php:606
+msgid " Powered by %s. "
+msgstr "Impulsado por %s."
+
+#: functions.php:605
+msgid "Rara Themes"
+msgstr "Rara Theme "
+
+#: functions.php:389
+msgid "Read More"
+msgstr "Leer Más"
+
+#: functions.php:388
+msgid "Find great adventure holidays and activities around the planet."
+msgstr "Encuentra grandes vacaciones de aventura y actividades alrededor del planeta."
+
+#: functions.php:387
+msgid "Find Your Best Holiday"
+msgstr "Encuentra tus mejores vacaciones"
+
+#: functions.php:266
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: functions.php:604
+msgid " Travel Voyage | Developed By "
+msgstr " Travel Voyage | Desarrollado por "
+
+#: functions.php:172
+msgid "Choose the layout for the homepage of your site."
+msgstr "Elige el layout para la página de inicio de tu sitio."
+
+#: functions.php:152 functions.php:171
+msgid "Homepage Layout"
+msgstr "Layout de la página de inicio"
+
+#: functions.php:119 functions.php:138
+msgid "Slider Layout"
+msgstr "Layout de carrusel"
+
+#: functions.php:105
+msgid "Choose the layout of the header for your site."
+msgstr "Elige el layout de la cabecera para tu sitio."
+
+#: functions.php:85 functions.php:104
+msgid "Header Layout"
+msgstr "Layout de cabecera"
+
+#: functions.php:52
+msgid "Information Links"
+msgstr "Enlaces a información"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/travel-voyage/"
+msgstr "https://rarathemes.com/wordpress-themes/travel-voyage/"
