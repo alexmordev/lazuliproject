@@ -1,0 +1,12 @@
+2021-12-07T03:53:47+00:00 CRITICAL Uncaught Error: Undefined constant "WP_ENVIRONMENT_TYPE" in /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/MailchimpScheduler.php:90
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/MailchimpScheduler.php(90): constant()
+#1 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/MailchimpScheduler.php(58): Automattic\WooCommerce\Admin\Schedulers\MailchimpScheduler->make_request()
+#2 /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Events.php(109): Automattic\WooCommerce\Admin\Schedulers\MailchimpScheduler->run()
+#3 /var/www/html/wp-includes/class-wp-hook.php(303): Automattic\WooCommerce\Admin\Events->do_wc_admin_daily()
+#4 /var/www/html/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#5 /var/www/html/wp-includes/plugin.php(518): WP_Hook->do_action()
+#6 /var/www/html/wp-cron.php(138): do_action_ref_array()
+#7 {main}
+  thrown en /var/www/html/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Schedulers/MailchimpScheduler.php en la línea 90
+
